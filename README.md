@@ -1,4 +1,8 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradwoo8621&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bradwoo8621&repo=rainbow-d9)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **bradwoo8621/bradwoo8621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
